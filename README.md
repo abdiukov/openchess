@@ -14,7 +14,6 @@ Development requirements are the following:
 - Visual Studio 2022 
     - with `ASP.NET and web development` installed from Visual Studio Installer
 - .NET 8 SDK
-- Windows Operating System
 
 To run the API:
 1. Open the solution in Visual Studio 2022. 
