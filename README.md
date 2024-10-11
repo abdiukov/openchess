@@ -2,8 +2,7 @@
 This is a simple open-source chess API.
 
 - **Free and Unrestricted**: No cost, no API limits, no API key needed.
-- **Customizable**: Adjust the playing style and difficulty level of the chess bot as needed.
-- **Easy Integration**: Simple and straightforward integration with any website or application.
+- **Easy Integration**: Simple and straightforward integration with your chess game.
 
 OpenChess API is currently deployed without any restrictions at https://api.openchess.io.
 
